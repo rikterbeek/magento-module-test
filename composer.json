@@ -47,5 +47,6 @@
         "Rikterbeek/Core"
       ]
     ]
-  }
+  },
+  "minimum-stability": "dev",
 }
