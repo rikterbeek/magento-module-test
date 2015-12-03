@@ -30,7 +30,7 @@
     "magento/module-theme": "100.0.*",
     "magento/framework": "100.0.*",
     "magento/magento-composer-installer": "*",
-    "rikterbeek/magento-module-test2": "*"
+    "test/magento-module-test2": "*"
   },
   "autoload": {
     "files": [
