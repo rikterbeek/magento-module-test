@@ -9,10 +9,8 @@
   ],
   "repositories": [
     {
-      "test": {
-        "type": "vcs",
-        "url": "git@github.com:rikterbeek/magento-module-test2.git"
-      }
+      "type": "vcs",
+      "url": "git@github.com:rikterbeek/magento-module-test2.git"
     }
   ],
   "require": {
@@ -30,7 +28,7 @@
     "magento/module-theme": "100.0.*",
     "magento/framework": "100.0.*",
     "magento/magento-composer-installer": "*",
-    "test/magento-module-test2": "*"
+    "rikterbeek/magento-module-test2": "*"
   },
   "autoload": {
     "files": [
